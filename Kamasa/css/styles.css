@@ -1,0 +1,19 @@
+.fm-nav a{
+  color: #ffffff;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.fm-nav .disabled {
+  color: rgba(168, 0, 0);
+}
+
+.fm-nav a:hover {
+  background: rgba(16, 94, 163);
+  color: #a0a0a0;
+}
+
+.navbar a{
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
