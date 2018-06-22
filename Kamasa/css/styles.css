@@ -17,3 +17,14 @@
     padding-top: 0rem;
     padding-bottom: 0rem;
 }
+
+.tarjeta {
+  height: 380px;
+}
+
+.producto {
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin: auto;
+}
